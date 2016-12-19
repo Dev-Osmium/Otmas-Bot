@@ -1,6 +1,0 @@
-{
-  "name": "The OtmasBot",
-  "tagline": "A discord.js bot",
-  "body": "# The OtmasBot\r\n\r\n## About\r\nCreated by Otmas in 2016, and developed by him and samwillington, the OtmasBot utilises discord.js to bring you the best possible moderation bot.\r\n\r\n## Credits\r\n* Otmas - Original Creator, Head of Development\r\n* samwillington - Developer\r\n\r\n## Open Commands\r\n* Ping-Returns Pong!\r\n* about- Displays some info\r\n* authorInfo - Displays information about Otmas and samwillington\r\n* git - Sends you to the GitHub repo",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
